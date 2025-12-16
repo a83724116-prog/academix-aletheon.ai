@@ -1,0 +1,7 @@
+{
+  "name": "EduCompanion AI",
+  "description": "An advanced AI-powered student companion app featuring audio summaries, mind maps, study tracking, and mentorship.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
